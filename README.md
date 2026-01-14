@@ -1,2 +1,3 @@
 # Vedomost-of-students
 Учебный проект "Успеваемость студентов"
+Написан на postgreSQL
